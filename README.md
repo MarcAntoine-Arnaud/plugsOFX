@@ -1,0 +1,4 @@
+plugsOFX
+========
+
+OpenFX compliants plugins
